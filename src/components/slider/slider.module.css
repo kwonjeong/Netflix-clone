@@ -1,0 +1,13 @@
+.sliderBox {
+  display: flex;
+  justify-content: space-between;
+}
+
+.slider {
+  display: flex;
+  overflow: visible;
+}
+
+.sliderBtn {
+  z-index: 300;
+}

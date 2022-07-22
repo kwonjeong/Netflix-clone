@@ -7,6 +7,15 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
